@@ -2,11 +2,11 @@
 
 A simple e-commerce app developed using Flutter.
 
-<img src="https://github.com/Ender-Wang/nike-me/assets/33310255/378c06bb-7780-4933-942b-ae4cfeaddca7" alt="Breakfast Home" width="300" height="auto">
+<img src="https://github.com/Ender-Wang/nike-me/assets/33310255/f60e3636-7b22-4aab-bd14-8eb66432eef4" alt="Breakfast Home" width="300" height="auto">
 
-<img src="https://github.com/Ender-Wang/nike-me/assets/33310255/21afa8af-003f-40f1-98c1-ffc8b7f40ae9" alt="Breakfast Home" width="300" height="auto">
+<img src="https://github.com/Ender-Wang/nike-me/assets/33310255/82f77a94-7207-4519-93ec-eddb4ed82595" alt="Breakfast Home" width="300" height="auto">
 
-<img src="https://github.com/Ender-Wang/nike-me/assets/33310255/2c4af51f-d8bf-4b6d-8f02-637766dedf98" alt="Breakfast Home" width="300" height="auto">
+<img src="https://github.com/Ender-Wang/nike-me/assets/33310255/00ca94e1-880d-4324-a226-433747c9a04c" alt="Breakfast Home" width="300" height="auto">
 
 ## Getting Started
 
